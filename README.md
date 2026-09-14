@@ -227,8 +227,3 @@ Data Cleaning → Data Analysis → DAX → Interactive Dashboard → Drill-thro
 
 This project demonstrates my ability to transform raw review data into an interactive and business-focused data analytics solution using Power BI.
 
-
-
-```DAX
-Total Reviews =
-COUNTROWS('Reviews')
