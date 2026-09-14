@@ -1,6 +1,8 @@
-# Multilingual-Mobile-App-Reviews-2025
+# 📱Multilingual-Mobile-App-Reviews-2025
 This project analyses multilingual mobile app reviews from 2025 to understand app performance, user satisfaction, review trends, customer engagement, and user behavior.The analysis was developed using Power BI, with data cleaning and transformation performed before creating interactive dashboards and analytical insights.
-# 📱 Multilingual Mobile App Reviews 2025 – Power BI Dashboard
+
+<img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/8fb36e96-8665-4f2b-abc4-3768f2cd9da0" />
+
 
 ## 📊 Project Overview
 
