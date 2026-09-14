@@ -78,13 +78,14 @@ Key data preparation steps included:
 
 ### Excel
 - Initial data inspection
-- Data validation
-- Data preparation
+- Data cleaning
+- Data Transformation
 
 ---
 📊 Dashboard Pages
  Power BI Dashboard Development
 The final Power BI report was designed with five analytical pages, each having a specific purpose by page navigation.
+
  Page 1 – Executive Analysis
 The Executive Analysis page provides a high-level overview of the entire dataset.
 It focuses on important KPIs such as:
@@ -100,7 +101,10 @@ Charts and visuals provide an overall understanding of:
 •	Reviews over month-Area Chart
 
 This page is designed for users who want to understand the overall performance of the mobile applications at a glance.
+
+
 Page 2 – App & Rating Analysis
+
 This page focuses specifically on app performance and rating.
 Charts and visuals provide an overall understanding of:
 •	Average rating by app  – Clustered bar chart
@@ -111,6 +115,7 @@ Charts and visuals provide an overall understanding of:
 
 
  Page 3 – User & Review Analysis
+ 
 This page examines the characteristics and behaviour of users who submitted reviews.
 The analysis includes areas such as:
 •	Average User age  – Measure
@@ -118,14 +123,20 @@ The analysis includes areas such as:
 •	Reviews by country – Map
 •	Reviews by device type – Donut chart 
 •	Reviews by gender – Pie chart
+
+
  Page 4 – App Details / Drill-Through
+ 
 A dedicated App Details page was created using Power BI's Drill-through functionality.
 This allows users to select a particular app from another page and navigate to a detailed view of that app.
 The page dynamically displays information related to the selected application.
 The Selected App measure provides a dynamic title such as: Selected Name from other pages.
 Ex:"Twitter”
 depending on the user's selection.The page includes KPI cards and different charts
+
+
  Page 5 – Insights & Recommendations
+ 
 The final page summarizes the major findings from the analysis and converts the analytical results into actionable insights and recommendations.
 The page can be used by stakeholders to understand:
 •	Which apps perform strongly 
